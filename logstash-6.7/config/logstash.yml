@@ -1,0 +1,4 @@
+path.config: /usr/share/logstash/config/conf.d
+pipeline.workers: 2
+pipeline.output.workers: 2
+pipeline.batch.size: 1048

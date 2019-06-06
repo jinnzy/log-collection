@@ -1,0 +1,16 @@
+version: '3'
+services:
+  logstash:
+    restart: always
+    image: docker.elastic.co/logstash/logstash:6.7.1
+    container_name: logstash
+    user: root
+    volumes:
+      - /etc/localtime:/etc/localtime
+      - ./config/logstash.yml:/usr/share/logstash/config/logstash.yml
+      - ./config/logstash.conf:/usr/share/logstash/config/conf.d/logstash.conf
+      - /etc/hosts:/etc/hosts
+    #ports:
+    #  - 9200:9200
+    #  - 9300:9300
+    network_mode: bridge

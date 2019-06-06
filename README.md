@@ -1,0 +1,7 @@
+数据库审计日志收集
+
+filebeat中会收集mongodb postgresql mysql等日志输出到kafka中
+
+sqlserver2kafka 是用go编写的，会读取sqlserver中的dml ddl login_failed这三种表，处理一些格式输入到kafka中
+
+logstash会消费kafka消息，把审计日志转存到elasticsearch中，用于kibana分析展示。

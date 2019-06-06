@@ -1,0 +1,173 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "M0B+RAHAi/TTDayAxZMApDJt9JM=",
+			"path": "cloud.google.com/go/civil",
+			"revision": "e6e4ae65f1354d2a13cc42f03bfd6b33c11f3cb2",
+			"revisionTime": "2019-04-08T22:14:06Z"
+		},
+		{
+			"checksumSHA1": "XSs4HYKkKurPSrSZQ/h5T96yKdE=",
+			"path": "github.com/DataDog/zstd",
+			"revision": "7961390227987fc4aaf937c8a4755e3072b0bad4",
+			"revisionTime": "2019-04-09T19:52:24Z"
+		},
+		{
+			"checksumSHA1": "nzyMzjE4LRH87aLtak8xC/KoJW8=",
+			"path": "github.com/Shopify/sarama",
+			"revision": "2b824357033b9904e3a32bf7fae2efe76f1591fd",
+			"revisionTime": "2019-04-10T06:01:13Z"
+		},
+		{
+			"checksumSHA1": "aENNVxKxF9h9PfvTIstiAS5I3Lg=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "d8f796af33cc11cb798c1aaeb27a4ebc5099927d",
+			"revisionTime": "2018-08-30T19:11:22Z"
+		},
+		{
+			"checksumSHA1": "m/k6/QMdjwoFcVAXO3eUWoEx3ys=",
+			"path": "github.com/denisenkom/go-mssqldb",
+			"revision": "ce35bd87d4b36ab12eb9da72e0a80eb6325e2a99",
+			"revisionTime": "2019-04-01T15:49:36Z"
+		},
+		{
+			"checksumSHA1": "4y7Hv8IPGF177L3VM0LKSqGLfAc=",
+			"path": "github.com/denisenkom/go-mssqldb/internal/cp",
+			"revision": "ce35bd87d4b36ab12eb9da72e0a80eb6325e2a99",
+			"revisionTime": "2019-04-01T15:49:36Z"
+		},
+		{
+			"checksumSHA1": "o0psFRtB8EoelTAEhJSqrtXdwJY=",
+			"path": "github.com/eapache/go-resiliency/breaker",
+			"revision": "842e16ec2c98ef0c59eebfe60d2d3500a793ba19",
+			"revisionTime": "2019-02-08T16:25:53Z"
+		},
+		{
+			"checksumSHA1": "4X8AHXOou+1mBPRxjUyU7jyu8vQ=",
+			"path": "github.com/eapache/go-xerial-snappy",
+			"revision": "776d5712da21bc4762676d614db1d8a64f4238b0",
+			"revisionTime": "2018-08-14T17:44:37Z"
+		},
+		{
+			"checksumSHA1": "Or1sHBLnbwlI+dfW/Io0CF0bkok=",
+			"path": "github.com/eapache/queue",
+			"revision": "093482f3f8ce946c05bcba64badd2c82369e084d",
+			"revisionTime": "2018-02-27T14:14:24Z"
+		},
+		{
+			"checksumSHA1": "qLQAhxqhn+iT9QvRUcWZaIhi0Yw=",
+			"path": "github.com/golang/snappy",
+			"revision": "2a8bb927dd31d8daada140a5d09578521ce5c36a",
+			"revisionTime": "2019-02-18T23:22:22Z"
+		},
+		{
+			"checksumSHA1": "LMkoN4x0Oz0fSZ6lB26aSG7zSzQ=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "071b657418cccdab721e549108b6b6cf8a1b7361",
+			"revisionTime": "2019-04-05T00:00:48Z"
+		},
+		{
+			"checksumSHA1": "K18jJmxBjjfnkWAxkD+ULMGKCmk=",
+			"path": "github.com/jinzhu/gorm/dialects/mssql",
+			"revision": "071b657418cccdab721e549108b6b6cf8a1b7361",
+			"revisionTime": "2019-04-05T00:00:48Z"
+		},
+		{
+			"checksumSHA1": "mfb/EusMwfajCPq0lwLWM/pvqI4=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "k+lUiQmR2BAK0xZNkDuBkv7UdTg=",
+			"path": "github.com/pierrec/lz4",
+			"revision": "315a67e90e415bcdaff33057da191569bf4d8479",
+			"revisionTime": "2019-03-27T17:20:49Z"
+		},
+		{
+			"checksumSHA1": "etLdFWBndH4iRSW+BN2W0pVzulE=",
+			"path": "github.com/pierrec/lz4/internal/xxh32",
+			"revision": "315a67e90e415bcdaff33057da191569bf4d8479",
+			"revisionTime": "2019-03-27T17:20:49Z"
+		},
+		{
+			"checksumSHA1": "uYe6WJNvrbU8rqAwKbWcZmpwr2s=",
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": "3113b8401b8a98917cde58f8bbd42a1b1c03b1fd",
+			"revisionTime": "2018-10-16T18:43:25Z"
+		},
+		{
+			"checksumSHA1": "7jD+KDys2p2uNHqBe+59ZXHirbQ=",
+			"path": "go.uber.org/atomic",
+			"revision": "5328d69c76a98d1d21c773653a5a78fa28d89921",
+			"revisionTime": "2019-02-26T01:13:05Z"
+		},
+		{
+			"checksumSHA1": "siW5uHTJJx3VDjpwsZR9yuaRUug=",
+			"path": "go.uber.org/multierr",
+			"revision": "ddea229ff1dff9e6fe8a6c0344ac73b09e81fce5",
+			"revisionTime": "2018-01-22T17:25:45Z"
+		},
+		{
+			"checksumSHA1": "TmgtRzcu8W6woLcjCNDzn35EW1A=",
+			"path": "go.uber.org/zap",
+			"revision": "d2a364dac1d9b70c651d9f47381c5912361e5596",
+			"revisionTime": "2019-02-15T01:25:40Z"
+		},
+		{
+			"checksumSHA1": "afFbYQlWVvMANwhNqMazS3uM0Dc=",
+			"path": "go.uber.org/zap/buffer",
+			"revision": "d2a364dac1d9b70c651d9f47381c5912361e5596",
+			"revisionTime": "2019-02-15T01:25:40Z"
+		},
+		{
+			"checksumSHA1": "Y0uE8U8wxuPku0bFZyVmYLznd/o=",
+			"path": "go.uber.org/zap/internal/bufferpool",
+			"revision": "d2a364dac1d9b70c651d9f47381c5912361e5596",
+			"revisionTime": "2019-02-15T01:25:40Z"
+		},
+		{
+			"checksumSHA1": "AA/i5mzFuQBeFcE+d9ZBLPropjU=",
+			"path": "go.uber.org/zap/internal/color",
+			"revision": "d2a364dac1d9b70c651d9f47381c5912361e5596",
+			"revisionTime": "2019-02-15T01:25:40Z"
+		},
+		{
+			"checksumSHA1": "fjEB1pcePOWjEmayG54E92JYgWk=",
+			"path": "go.uber.org/zap/internal/exit",
+			"revision": "d2a364dac1d9b70c651d9f47381c5912361e5596",
+			"revisionTime": "2019-02-15T01:25:40Z"
+		},
+		{
+			"checksumSHA1": "IlFq91wS0arT1W+ptZBPR3KXNnU=",
+			"path": "go.uber.org/zap/zapcore",
+			"revision": "d2a364dac1d9b70c651d9f47381c5912361e5596",
+			"revisionTime": "2019-02-15T01:25:40Z"
+		},
+		{
+			"checksumSHA1": "UDvj5huw3BaGehfVRCB1UGQAtP4=",
+			"path": "golang.org/x/crypto/md4",
+			"revision": "88737f569e3a9c7ab309cdc09a07fe7fc87233c3",
+			"revisionTime": "2019-04-11T09:50:52Z"
+		},
+		{
+			"checksumSHA1": "f3Y7JIZH61oMmp8nphqe8Mg+XoU=",
+			"path": "golang.org/x/net/internal/socks",
+			"revision": "eb5bcb51f2a31c7d5141d810b70815c05d9c9146",
+			"revisionTime": "2019-04-03T01:06:53Z"
+		},
+		{
+			"path": "golang.org/x/net/proxy",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "oNqPrS2edE8peI3ah2INe379k8E=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "github.com/learn-go/sqlserver2kafka"
+}
